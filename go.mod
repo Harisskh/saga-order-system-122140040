@@ -1,5 +1,5 @@
 // go.mod
-module saga-order-system
+module saga-order-system-122140040
 
 go 1.20
 
